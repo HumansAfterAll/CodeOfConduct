@@ -22,7 +22,7 @@ of this contract.
 
 ---
 
-## RULE #1 - Aggreement
+## RULE #1 - Agreement
 
 No harm to
 
